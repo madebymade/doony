@@ -924,6 +924,14 @@ a:hover {
   background: #eee !important;
 }
 
+.build-caption {
+  font-size: 16px;
+}
+
+.build-caption .doony-circle {
+  margin-right: 8px;
+}
+
 #tasks {
   font-size: 14px  !important;
 }
