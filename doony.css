@@ -652,7 +652,11 @@ textarea {
 
 /* make the link target bigger */
 #buildHistory .model-link {
-  padding: 10px 16px 10px 0;
+  padding: 0;
+}
+
+#buildHistory .build-details {
+  padding: 0 16px 0 0;
 }
 
 #buildHistory .pane-header {
