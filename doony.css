@@ -900,11 +900,10 @@ a:hover {
 }
 
 #buildHistory .model-link {
-  padding: 0;
+  padding: 0 16px 0 0;
 }
 
 #buildHistory .build-details {
-  padding: 0 16px 0 0;
   position: relative;
   top: 3px;
 }
