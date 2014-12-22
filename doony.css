@@ -657,6 +657,8 @@ textarea {
 
 #buildHistory .build-details {
   padding: 0 16px 0 0;
+  position: relative;
+  top: 3px;
 }
 
 #buildHistory .pane-header {
@@ -897,6 +899,20 @@ a:hover {
   color: #000 !important;
   text-indent: -9999em;
   width: 119px;
+}
+
+#breadcrumbs {
+  border-top: 1px solid #D3D7CF;
+}
+
+#buildHistory .model-link {
+  padding: 0;
+}
+
+#buildHistory .build-details {
+  padding: 0 16px 0 0;
+  position: relative;
+  top: 3px;
 }
 
 .yui-skin-sam #search-box {
